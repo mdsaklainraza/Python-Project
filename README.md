@@ -1,22 +1,22 @@
-🛍️ Superstore Sales Analysis — Python Project
+Superstore Sales Analysis — Python Project
 Objective:
 Analyze sales data from a fictional superstore to uncover patterns in profit, discount impact, regional performance, and category trends using Python.
 
-📁 Dataset
+Dataset
 Source: Superstore (Kaggle / Sample Data)
 
 Format: .csv file
 
 Contains: Order details, customer info, geography, sales & profit metrics
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Python
 
 Libraries: pandas, numpy, matplotlib, seaborn
 
 Platform: Jupyter Notebook
 
-📊 Key Analysis Performed
+Key Analysis Performed
 Data Cleaning:
 Handled missing values, standardized column formats using pandas and NumPy.
 
@@ -39,7 +39,7 @@ Bar plots, histograms, heatmaps, pie charts
 
 Trend analysis visuals by Region and Segment
 
-🔍 Insights & Observations
+Insights & Observations
 High Discounts often led to negative profits in certain categories.
 
 West Region performed well in terms of total sales.
